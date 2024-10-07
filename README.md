@@ -1,0 +1,3 @@
+**Tenzies Game**
+
+Tenzies is a fast-paced dice-rolling game where players aim to match all dice to the same number. In this web application version, players roll ten dice and can choose to "hold" certain dice while re-rolling the rest. The goal is to get all dice to show the same value as quickly as possible. It's a fun, engaging game with simple rules and an addictive gameplay loop that challenges both luck and strategy.Built with Advanced Javascript and React.
